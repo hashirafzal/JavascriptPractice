@@ -1,4 +1,5 @@
-"# JavascriptPractice" 
+"# JavascriptPractice"
+
 Task 1 Background Color Changer
 
 Task 2 BMI Calculator
