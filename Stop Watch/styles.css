@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(255, 156, 34);
+}
+.timerbtn{
+    width:90px;
+    height:40px;
+    border:2px solid;
+    border-radius: 12px;
+    cursor:pointer;
+    font-size: large;
+    color:white;
+    background-color:gray;
+    font-family: consolas, monospace;
+}
+.timerbtn:active{
+    border:2px solid red;
+
+}
+.timerbtn:focus{
+    color:rgb(0, 0, 0);
+}
+
+#displayTime{
+    font-size:80px;
+}
+   
+#timeContainer{
+    text-align:center;
+    margin-top:20%;
+    
+}
